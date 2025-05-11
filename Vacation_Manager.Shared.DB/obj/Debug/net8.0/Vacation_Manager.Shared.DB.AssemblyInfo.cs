@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vacation_Manager.Shared.DB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4762bb7ba2193fec2c0e655b36108cadd0cc2701")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04598e01b6d6b210fb3aeee3c802c44600108af3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vacation_Manager.Shared.DB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vacation_Manager.Shared.DB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

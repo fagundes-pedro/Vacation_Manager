@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vacation_Manager.ConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c088c0423d924b0ee909d4b873f64a262d5cda9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04598e01b6d6b210fb3aeee3c802c44600108af3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vacation_Manager.ConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vacation_Manager.ConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

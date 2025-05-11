@@ -15,3 +15,4 @@ C:\Users\fagun\source\repos\Vacation_Manager\Vacation_Manager.Shared.DB\obj\Debu
 C:\Users\fagun\source\repos\Vacation_Manager\Vacation_Manager.Shared.DB\obj\Debug\net8.0\Vacation_Manager.Shared.DB.pdb
 C:\Users\fagun\source\repos\Vacation_Manager\Vacation_Manager.Shared.DB\obj\Debug\net8.0\Vacation_Manager.Shared.DB.genruntimeconfig.cache
 C:\Users\fagun\source\repos\Vacation_Manager\Vacation_Manager.Shared.DB\obj\Debug\net8.0\ref\Vacation_Manager.Shared.DB.dll
+C:\Users\fagun\source\repos\Vacation_Manager\Vacation_Manager.Shared.DB\obj\Debug\net8.0\Vacation_Manager.Shared.DB.sourcelink.json
