@@ -8,15 +8,19 @@ namespace Vacation_Manager.Shared.Models.Models;
 
 public class VacationCalendar
 {
-    public VacationCalendar(int year, List<VacationPeriod> vacationList)
+    public VacationCalendar()
     {
-        //AssistenteId = assistenteId;
+    }
+    public VacationCalendar(Assistent assistent, int year)
+    {
+        Assistent = assistent;
         Year = year;
-        VacationList = vacationList;
+        VacationList = new List<VacationPeriod>();
     }
 
     public int Id { get; set; }
     public int Year { get; set; }
-    public virtual int AssistenteId { get; set; }
-    public List<VacationPeriod> VacationList { get; set; }
+    public int AssistentId { get; set; }
+    public virtual Assistent Assistent { get; set; }
+    public virtual ICollection<VacationPeriod> VacationList { get; set; }
 }

@@ -8,14 +8,16 @@ namespace Vacation_Manager.Shared.Models.Models;
 
 public class VacationPeriod
 {
-    public VacationPeriod(DateOnly startDate, DateOnly endDate, string description = "Sem descrição")
+    public VacationPeriod()
     {
+    }
+    public VacationPeriod(VacationCalendar calendar, DateOnly startDate, DateOnly endDate, string description = "Sem descrição")
+    {
+        VacationCalendar = calendar;
         StartDate = startDate;
         EndDate = endDate;
         Duration = (endDate.ToDateTime(TimeOnly.MinValue) - startDate.ToDateTime(TimeOnly.MinValue)).Days + 1;
         Description = description;
-        //AssistenteId = assistenteId;
-        //VacationCalendarId = vacationCalendarId;
     }
 
     public int Id { get; set; }
@@ -23,6 +25,6 @@ public class VacationPeriod
     public DateOnly EndDate { get; set; }
     public int Duration { get; set; }
     public string Description { get; set; }
-    public virtual int AssistenteId { get; set; }
-    public virtual int VacationCalendarId { get; set; }
+    public int VacationCalendarId { get; set; }
+    public virtual VacationCalendar VacationCalendar { get; set; }
 }

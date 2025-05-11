@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\fagun\\source\\repos\\Vacation_Manager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CEC3D9D-D77A-42E9-B9DA-AA1A179F36BE}|Vacation_Manager.Shared.DB\\Vacation_Manager.Shared.DB.csproj|c:\\users\\fagun\\source\\repos\\vacation_manager\\vacation_manager.shared.db\\database\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CEC3D9D-D77A-42E9-B9DA-AA1A179F36BE}|Vacation_Manager.Shared.DB\\Vacation_Manager.Shared.DB.csproj|solutionrelative:vacation_manager.shared.db\\database\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{069714AB-D9A6-490D-A9AB-BEBC572249CA}|Vacation_Manager.Shared.Models\\Vacation_Manager.Shared.Models.csproj|c:\\users\\fagun\\source\\repos\\vacation_manager\\vacation_manager.shared.models\\models\\vacationperiod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{069714AB-D9A6-490D-A9AB-BEBC572249CA}|Vacation_Manager.Shared.Models\\Vacation_Manager.Shared.Models.csproj|solutionrelative:vacation_manager.shared.models\\models\\vacationperiod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{069714AB-D9A6-490D-A9AB-BEBC572249CA}|Vacation_Manager.Shared.Models\\Vacation_Manager.Shared.Models.csproj|c:\\users\\fagun\\source\\repos\\vacation_manager\\vacation_manager.shared.models\\models\\vacationcalendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069714AB-D9A6-490D-A9AB-BEBC572249CA}|Vacation_Manager.Shared.Models\\Vacation_Manager.Shared.Models.csproj|solutionrelative:vacation_manager.shared.models\\models\\vacationcalendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0DF0E940-7089-4FB1-89FB-E3810C8BC136}|Vacation_Manager\\Vacation_Manager.csproj|c:\\users\\fagun\\source\\repos\\vacation_manager\\vacation_manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DF0E940-7089-4FB1-89FB-E3810C8BC136}|Vacation_Manager\\Vacation_Manager.csproj|solutionrelative:vacation_manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8CEC3D9D-D77A-42E9-B9DA-AA1A179F36BE}|Vacation_Manager.Shared.DB\\Vacation_Manager.Shared.DB.csproj|c:\\users\\fagun\\source\\repos\\vacation_manager\\vacation_manager.shared.db\\migrations\\20250511160632_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEC3D9D-D77A-42E9-B9DA-AA1A179F36BE}|Vacation_Manager.Shared.DB\\Vacation_Manager.Shared.DB.csproj|solutionrelative:vacation_manager.shared.db\\migrations\\20250511160632_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEC3D9D-D77A-42E9-B9DA-AA1A179F36BE}|Vacation_Manager.Shared.DB\\Vacation_Manager.Shared.DB.csproj|c:\\users\\fagun\\source\\repos\\vacation_manager\\vacation_manager.shared.db\\migrations\\20250511160632_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEC3D9D-D77A-42E9-B9DA-AA1A179F36BE}|Vacation_Manager.Shared.DB\\Vacation_Manager.Shared.DB.csproj|solutionrelative:vacation_manager.shared.db\\migrations\\20250511160632_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069714AB-D9A6-490D-A9AB-BEBC572249CA}|Vacation_Manager.Shared.Models\\Vacation_Manager.Shared.Models.csproj|c:\\users\\fagun\\source\\repos\\vacation_manager\\vacation_manager.shared.models\\models\\vacationperiod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069714AB-D9A6-490D-A9AB-BEBC572249CA}|Vacation_Manager.Shared.Models\\Vacation_Manager.Shared.Models.csproj|solutionrelative:vacation_manager.shared.models\\models\\vacationperiod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEC3D9D-D77A-42E9-B9DA-AA1A179F36BE}|Vacation_Manager.Shared.DB\\Vacation_Manager.Shared.DB.csproj|c:\\users\\fagun\\source\\repos\\vacation_manager\\vacation_manager.shared.db\\database\\vacationmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEC3D9D-D77A-42E9-B9DA-AA1A179F36BE}|Vacation_Manager.Shared.DB\\Vacation_Manager.Shared.DB.csproj|solutionrelative:vacation_manager.shared.db\\database\\vacationmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{069714AB-D9A6-490D-A9AB-BEBC572249CA}|Vacation_Manager.Shared.Models\\Vacation_Manager.Shared.Models.csproj|c:\\users\\fagun\\source\\repos\\vacation_manager\\vacation_manager.shared.models\\models\\assistent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{069714AB-D9A6-490D-A9AB-BEBC572249CA}|Vacation_Manager.Shared.Models\\Vacation_Manager.Shared.Models.csproj|solutionrelative:vacation_manager.shared.models\\models\\assistent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{069714AB-D9A6-490D-A9AB-BEBC572249CA}|Vacation_Manager.Shared.Models\\Vacation_Manager.Shared.Models.csproj|c:\\users\\fagun\\source\\repos\\vacation_manager\\vacation_manager.shared.models\\models\\vacationcalendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{069714AB-D9A6-490D-A9AB-BEBC572249CA}|Vacation_Manager.Shared.Models\\Vacation_Manager.Shared.Models.csproj|solutionrelative:vacation_manager.shared.models\\models\\vacationcalendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DF0E940-7089-4FB1-89FB-E3810C8BC136}|Vacation_Manager\\Vacation_Manager.csproj|c:\\users\\fagun\\source\\repos\\vacation_manager\\vacation_manager\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{0DF0E940-7089-4FB1-89FB-E3810C8BC136}|Vacation_Manager\\Vacation_Manager.csproj|solutionrelative:vacation_manager\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,35 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\fagun\\source\\repos\\Vacation_Manager\\Vacation_Manager\\README.md",
-              "RelativeDocumentMoniker": "Vacation_Manager\\README.md",
-              "ToolTip": "C:\\Users\\fagun\\source\\repos\\Vacation_Manager\\Vacation_Manager\\README.md",
-              "RelativeToolTip": "Vacation_Manager\\README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-05-06T18:17:00.624Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DAL.cs",
-              "DocumentMoniker": "C:\\Users\\fagun\\source\\repos\\Vacation_Manager\\Vacation_Manager.Shared.DB\\DataBase\\DAL.cs",
-              "RelativeDocumentMoniker": "Vacation_Manager.Shared.DB\\DataBase\\DAL.cs",
-              "ToolTip": "C:\\Users\\fagun\\source\\repos\\Vacation_Manager\\Vacation_Manager.Shared.DB\\DataBase\\DAL.cs",
-              "RelativeToolTip": "Vacation_Manager.Shared.DB\\DataBase\\DAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T21:37:00.73Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
@@ -90,51 +67,90 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "20250511160632_initial.cs",
+              "DocumentMoniker": "C:\\Users\\fagun\\source\\repos\\Vacation_Manager\\Vacation_Manager.Shared.DB\\Migrations\\20250511160632_initial.cs",
+              "RelativeDocumentMoniker": "Vacation_Manager.Shared.DB\\Migrations\\20250511160632_initial.cs",
+              "ToolTip": "C:\\Users\\fagun\\source\\repos\\Vacation_Manager\\Vacation_Manager.Shared.DB\\Migrations\\20250511160632_initial.cs",
+              "RelativeToolTip": "Vacation_Manager.Shared.DB\\Migrations\\20250511160632_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:02:48.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250511160632_initial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\fagun\\source\\repos\\Vacation_Manager\\Vacation_Manager.Shared.DB\\Migrations\\20250511160632_initial.Designer.cs",
+              "RelativeDocumentMoniker": "Vacation_Manager.Shared.DB\\Migrations\\20250511160632_initial.Designer.cs",
+              "ToolTip": "C:\\Users\\fagun\\source\\repos\\Vacation_Manager\\Vacation_Manager.Shared.DB\\Migrations\\20250511160632_initial.Designer.cs",
+              "RelativeToolTip": "Vacation_Manager.Shared.DB\\Migrations\\20250511160632_initial.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvw8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:02:45.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VacationPeriod.cs",
+              "DocumentMoniker": "C:\\Users\\fagun\\source\\repos\\Vacation_Manager\\Vacation_Manager.Shared.Models\\Models\\VacationPeriod.cs",
+              "RelativeDocumentMoniker": "Vacation_Manager.Shared.Models\\Models\\VacationPeriod.cs",
+              "ToolTip": "C:\\Users\\fagun\\source\\repos\\Vacation_Manager\\Vacation_Manager.Shared.Models\\Models\\VacationPeriod.cs",
+              "RelativeToolTip": "Vacation_Manager.Shared.Models\\Models\\VacationPeriod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:22:26.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VacationCalendar.cs",
+              "DocumentMoniker": "C:\\Users\\fagun\\source\\repos\\Vacation_Manager\\Vacation_Manager.Shared.Models\\Models\\VacationCalendar.cs",
+              "RelativeDocumentMoniker": "Vacation_Manager.Shared.Models\\Models\\VacationCalendar.cs",
+              "ToolTip": "C:\\Users\\fagun\\source\\repos\\Vacation_Manager\\Vacation_Manager.Shared.Models\\Models\\VacationCalendar.cs",
+              "RelativeToolTip": "Vacation_Manager.Shared.Models\\Models\\VacationCalendar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:16:56.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Assistent.cs",
               "DocumentMoniker": "C:\\Users\\fagun\\source\\repos\\Vacation_Manager\\Vacation_Manager.Shared.Models\\Models\\Assistent.cs",
               "RelativeDocumentMoniker": "Vacation_Manager.Shared.Models\\Models\\Assistent.cs",
               "ToolTip": "C:\\Users\\fagun\\source\\repos\\Vacation_Manager\\Vacation_Manager.Shared.Models\\Models\\Assistent.cs",
               "RelativeToolTip": "Vacation_Manager.Shared.Models\\Models\\Assistent.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAcwCYAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T20:54:46.002Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "VacationCalendar.cs",
-              "DocumentMoniker": "C:\\Users\\fagun\\source\\repos\\Vacation_Manager\\Vacation_Manager.Shared.Models\\Models\\VacationCalendar.cs",
-              "RelativeDocumentMoniker": "Vacation_Manager.Shared.Models\\Models\\VacationCalendar.cs",
-              "ToolTip": "C:\\Users\\fagun\\source\\repos\\Vacation_Manager\\Vacation_Manager.Shared.Models\\Models\\VacationCalendar.cs",
-              "RelativeToolTip": "Vacation_Manager.Shared.Models\\Models\\VacationCalendar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "VacationManagerContext.cs",
+              "DocumentMoniker": "C:\\Users\\fagun\\source\\repos\\Vacation_Manager\\Vacation_Manager.Shared.DB\\DataBase\\VacationManagerContext.cs",
+              "RelativeDocumentMoniker": "Vacation_Manager.Shared.DB\\DataBase\\VacationManagerContext.cs",
+              "ToolTip": "C:\\Users\\fagun\\source\\repos\\Vacation_Manager\\Vacation_Manager.Shared.DB\\DataBase\\VacationManagerContext.cs",
+              "RelativeToolTip": "Vacation_Manager.Shared.DB\\DataBase\\VacationManagerContext.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwC8AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T20:35:26.709Z",
+              "WhenOpened": "2025-05-11T15:14:47.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "VacationPeriod.cs",
-              "DocumentMoniker": "C:\\Users\\fagun\\source\\repos\\Vacation_Manager\\Vacation_Manager.Shared.Models\\Models\\VacationPeriod.cs",
-              "RelativeDocumentMoniker": "Vacation_Manager.Shared.Models\\Models\\VacationPeriod.cs",
-              "ToolTip": "C:\\Users\\fagun\\source\\repos\\Vacation_Manager\\Vacation_Manager.Shared.Models\\Models\\VacationPeriod.cs",
-              "RelativeToolTip": "Vacation_Manager.Shared.Models\\Models\\VacationPeriod.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T20:39:03.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\fagun\\source\\repos\\Vacation_Manager\\Vacation_Manager\\Program.cs",
               "RelativeDocumentMoniker": "Vacation_Manager\\Program.cs",
               "ToolTip": "C:\\Users\\fagun\\source\\repos\\Vacation_Manager\\Vacation_Manager\\Program.cs",
               "RelativeToolTip": "Vacation_Manager\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T18:16:43.954Z",
               "EditorCaption": ""

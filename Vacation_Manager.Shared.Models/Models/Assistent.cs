@@ -14,12 +14,13 @@ public class Assistent
         Email = email;
         VacationBalance = 22; // Default vacation balance
         DaysOff = daysOff;
+        VacationCalendars = new List<VacationCalendar>();
     }
     public int Id { get; set; }
     public string Name { get; set; }
     public string Email { get; set; }
     public int VacationBalance { get; set; }
-    public List<VacationCalendar>? VacationCalendars { get; set; }
+    public virtual ICollection<VacationCalendar>? VacationCalendars { get; set; }
     public List<DayOfWeek> DaysOff { get; set; }
 
     public override string ToString()
@@ -27,7 +28,7 @@ public class Assistent
         return $"{Name} - {Email} - {string.Join(", ", DaysOff)}";
     }
 
-    public void AddVacationPeriod(VacationPeriod vacationPeriod)
+/*    public void AddVacationPeriod(VacationPeriod vacationPeriod)
     {
         if (VacationCalendars is null)
         {
@@ -36,10 +37,10 @@ public class Assistent
         var vacationCalendar = VacationCalendars.FirstOrDefault(vc => vc.Year.Equals(vacationPeriod.StartDate.Year));
         if (vacationCalendar is null)
         {
-            vacationCalendar = new VacationCalendar(vacationPeriod.StartDate.Year, new List<VacationPeriod>());
+            vacationCalendar = new VacationCalendar(vacationPeriod.StartDate.Year);
             VacationCalendars.Add(vacationCalendar);
         }
         vacationCalendar.VacationList.Add(vacationPeriod);
         VacationBalance -= vacationPeriod.Duration;
-    }
+    }*/
 }

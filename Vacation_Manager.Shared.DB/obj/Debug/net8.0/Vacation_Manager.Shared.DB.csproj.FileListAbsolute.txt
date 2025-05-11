@@ -1,0 +1,17 @@
+C:\Users\fagun\source\repos\Vacation_Manager\Vacation_Manager.Shared.DB\obj\Debug\net8.0\Vacation_Manager.Shared.DB.csproj.AssemblyReference.cache
+C:\Users\fagun\source\repos\Vacation_Manager\Vacation_Manager.Shared.DB\obj\Debug\net8.0\Vacation_Manager.Shared.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fagun\source\repos\Vacation_Manager\Vacation_Manager.Shared.DB\obj\Debug\net8.0\Vacation_Manager.Shared.DB.AssemblyInfoInputs.cache
+C:\Users\fagun\source\repos\Vacation_Manager\Vacation_Manager.Shared.DB\obj\Debug\net8.0\Vacation_Manager.Shared.DB.AssemblyInfo.cs
+C:\Users\fagun\source\repos\Vacation_Manager\Vacation_Manager.Shared.DB\obj\Debug\net8.0\Vacation_Manager.Shared.DB.csproj.CoreCompileInputs.cache
+C:\Users\fagun\source\repos\Vacation_Manager\Vacation_Manager.Shared.DB\bin\Debug\net8.0\Vacation_Manager.Shared.DB.deps.json
+C:\Users\fagun\source\repos\Vacation_Manager\Vacation_Manager.Shared.DB\bin\Debug\net8.0\Vacation_Manager.Shared.DB.runtimeconfig.json
+C:\Users\fagun\source\repos\Vacation_Manager\Vacation_Manager.Shared.DB\bin\Debug\net8.0\Vacation_Manager.Shared.DB.dll
+C:\Users\fagun\source\repos\Vacation_Manager\Vacation_Manager.Shared.DB\bin\Debug\net8.0\Vacation_Manager.Shared.DB.pdb
+C:\Users\fagun\source\repos\Vacation_Manager\Vacation_Manager.Shared.DB\bin\Debug\net8.0\Vacation_Manager.Shared.Models.dll
+C:\Users\fagun\source\repos\Vacation_Manager\Vacation_Manager.Shared.DB\bin\Debug\net8.0\Vacation_Manager.Shared.Models.pdb
+C:\Users\fagun\source\repos\Vacation_Manager\Vacation_Manager.Shared.DB\obj\Debug\net8.0\Vacation.60BCDF7E.Up2Date
+C:\Users\fagun\source\repos\Vacation_Manager\Vacation_Manager.Shared.DB\obj\Debug\net8.0\Vacation_Manager.Shared.DB.dll
+C:\Users\fagun\source\repos\Vacation_Manager\Vacation_Manager.Shared.DB\obj\Debug\net8.0\refint\Vacation_Manager.Shared.DB.dll
+C:\Users\fagun\source\repos\Vacation_Manager\Vacation_Manager.Shared.DB\obj\Debug\net8.0\Vacation_Manager.Shared.DB.pdb
+C:\Users\fagun\source\repos\Vacation_Manager\Vacation_Manager.Shared.DB\obj\Debug\net8.0\Vacation_Manager.Shared.DB.genruntimeconfig.cache
+C:\Users\fagun\source\repos\Vacation_Manager\Vacation_Manager.Shared.DB\obj\Debug\net8.0\ref\Vacation_Manager.Shared.DB.dll
